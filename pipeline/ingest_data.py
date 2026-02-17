@@ -32,7 +32,7 @@ parse_dates = [
 def run():
     pg_user = 'admin'
     pg_password = 'root'
-    pg_host = 'localhost'
+    pg_host = 'postgres'
     pg_db = 'ny_taxi'
     pg_port = 5432
 
